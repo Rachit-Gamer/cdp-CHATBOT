@@ -40,7 +40,7 @@ The following dependencies are required for the project:
 ## **Setup Instructions**
 
 ### **1. Clone the Repository**
-```bash
+
 git clone https://github.com/your-username/cdp-chatbot.git
 cd cdp-chatbot
 
