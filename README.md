@@ -89,24 +89,6 @@ http://localhost:3000
 Project Structure
 The project follows a modular structure:
 
-bash
-Copy code
-project-folder/
-├── certs/                 # Optional: SSL certificates (if needed)
-├── data/                  # Documentation files for CDPs
-│   ├── segment-docs.txt
-│   ├── mparticle-docs.txt
-│   ├── lytics-docs.txt
-│   └── zeotap-docs.txt
-├── public/                # Frontend assets
-│   ├── index.html         # Chatbot UI
-│   ├── style.css          # Styling for the chatbot
-│   └── script.js          # Frontend logic for message handling
-├── src/                   # Backend source code
-│   └── chatbot.js         # Main server logic
-├── .env                   # Environment variables
-├── package.json           # Project metadata and dependencies
-├── README.md              # Project documentation
 Testing
 1. Cross-CDP Comparisons
 Example Question:
