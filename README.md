@@ -74,7 +74,7 @@ For development, use nodemon to auto-restart on file changes:
 
 bash
 Copy code
-npm run dev
+node src/chatbot.js (use this in a bash terminal to run)
 Alternatively, start the server directly:
 
 bash
